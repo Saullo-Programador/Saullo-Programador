@@ -9,14 +9,9 @@
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Saullo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Saullo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Saullo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Saullo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Saullo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  
-  <img align="center" alt="Saullo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img align="center" alt="Saullo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,typescript,aws,androidstudio,react,nodejs,jest,materialui,styledcomponents" />
+  </a>
 </div>
 
 ##
