@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,typescript,aws,androidstudio,react,nodejs,jest,materialui,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=kotlin,typescript,aws,androidstudio" />
   </a>
 </div>
 
