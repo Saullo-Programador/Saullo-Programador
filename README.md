@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,spring,firebase,aws,ktor," />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,dart,flutter,androidstudio,spring,firebase,aws,ktor,react" />
   </a>
 </div>
 
