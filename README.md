@@ -1,10 +1,10 @@
 # Saullo Paulo
 
-`Mobile & Backend Developer`
+`Engenheiro de Software, Mobile & Backend Developer`
 
 ---
 
-Desenvolvedor Mobile e Backend com atuação em Android Nativo (Kotlin/Jetpack Compose), Flutter e APIs REST com Spring Boot. Especializado em levar IA da teoria à prática: já desenvolvi agentes de IA para automação jurídica (análise de processos, jurisprudência e minutas), triagem de exames médicos e cobrança automatizada via n8n, integrando LLMs a fluxos reais de negócio. 
+Engenheiro de Software Mobile e Backend com atuação em Android Nativo (Kotlin/Jetpack Compose), Flutter e APIs REST com Spring Boot. Especializado em levar IA da teoria à prática: já desenvolvi agentes de IA para automação jurídica (análise de processos, jurisprudência e minutas), triagem de exames médicos e cobrança automatizada via n8n, integrando LLMs a fluxos reais de negócio. 
 
 ---
 ### 💼 Languages and Tools
