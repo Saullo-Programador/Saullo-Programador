@@ -10,7 +10,7 @@ Engenheiro de Software Mobile e Backend com atuação em Android Nativo (Kotlin/
 ### 💼 Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,spring,nodejs,py,typescript,firebase,aws,docker,mysql,postgres,mongodb,githubactions" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,spring,nodejs,py,typescript,nextjs,firebase,aws,docker,mysql,postgres,mongodb,githubactions" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
